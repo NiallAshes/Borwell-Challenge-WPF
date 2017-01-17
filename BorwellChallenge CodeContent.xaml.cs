@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,12 +13,12 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Borwell_Software_Challenge_WPF
+namespace BorwellChallenge_CodeContent
 // Original Task assignement can be found via this link: https://borwell.com/career/ , under 'Software Engineering Jobs'
 {
 
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for BorwellChallenge_MainWindow.xaml
     /// --> I.e. What interactions occur within the main window of the
     ///   program and what code causes these interactions to occur.
     /// </summary>
